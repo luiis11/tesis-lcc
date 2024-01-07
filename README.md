@@ -7,12 +7,12 @@ Esta aplicación utiliza los modelos de clasificación entrenados durante el tra
 #### Página Inicial
 Aqui se debe ingresar un texto de al menos 100 palabras para predecir
 
-![App Capture 1](https://github.com/luiis11/tesis-lcc/blob/main/Screenshots/capture_1.webp)
+![App Capture 1](https://github.com/luimont/tesis-lcc/blob/main/Screenshots/capture_1.webp)
 
 #### Resultados 
 Aqui se visualizan los resultados de predicción obtenidos a partir del texto ingresado
 
-![App Capture 2](https://github.com/luiis11/tesis-lcc/blob/main/Screenshots/capture_2.webp)
+![App Capture 2](https://github.com/luimont/tesis-lcc/blob/main/Screenshots/capture_2.webp)
 
 
 ### Tecnologías Utilizadas
@@ -36,7 +36,7 @@ Se listan las notebooks utilizadas para los tipos de clasificacion
 - Clasificación MultiClase
 - Clasificación Multietiqueta
 
-![Modelos de Clasificación](https://github.com/luiis11/tesis-lcc/blob/main/Screenshots/classificactions_class.png)
+![Modelos de Clasificación](https://github.com/luimont/tesis-lcc/blob/main/Screenshots/classificactions_class.png)
 
 ## Resultados Finales
 
