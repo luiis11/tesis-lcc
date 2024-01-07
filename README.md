@@ -42,4 +42,4 @@ Se listan las notebooks utilizadas para los tipos de clasificacion
 
 Se adjunta el informe de resultados final que consta de una tabla comparativa de todos los tipos de clasificación (binaria, multiclase, multietiqueta) junto con el resultado obtenido de cada clasificador y cada modelo de representación (booleana, tf, tfidf)
 
-[All_results.pdf](https://github.com/luiis11/tesis-lcc/blob/main/Results/all_results.pdf)
+[All_results.pdf](https://github.com/luimont/tesis-lcc/blob/main/Results/all_results.pdf)
